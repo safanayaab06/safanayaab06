@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Safa Nayaab! 👋
 
-<!--
-**safanayaab06/safanayaab06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student at Rajeev Institute of Technology, Hassan, currently exploring the world of **Web Development, UI/UX, and Software Engineering**.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into clean, functional, and user-friendly digital experiences — combining **design thinking with code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+
+* HTML & CSS
+* JavaScript
+* React
+* Git & GitHub
+* UI/UX & Figma
+* Data Structures & Algorithms
+
+### 🛠️ What I'm building
+
+I'm working on practical projects that solve real student and everyday problems, while documenting my journey from **design → development → deployment**.
+
+### 🎯 My goal
+
+To become a strong software professional with a foundation in both **technology and design**, while preparing for higher studies after my BE.
+
+> **Learning. Building. Breaking things. Fixing them. Repeating. 🚀**
